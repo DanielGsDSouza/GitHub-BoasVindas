@@ -44,12 +44,15 @@ h1 {
 }
 .fa-facebook-square:hover {
     color: #2222ee;
+    transition: 1s;
 }
 .fa-linkedin:hover {
     color: #00BFFF;
+    transition: 1s;
 }
 .fa-youtube:hover {
     color: #b31515;
+    transition: 1s;
 }
 p {
     color: #fff;
